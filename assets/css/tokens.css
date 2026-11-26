@@ -1,0 +1,41 @@
+
+:root{
+
+  --noir:#0C0A0A;
+  --aubergine:#3C071B;
+
+  --oxblood:#5C0701;
+  --red:#790301;
+  --script:#A62926;
+  --script-noir:#C24038;
+
+  --cognac:#7A4A2E;
+  --bronze:#785800;
+  --brass:#C9A45C;
+
+  --paper:#F5F4F0;
+  --white:#FFFFFF;
+  --ink:#1A1414;
+  --muted-paper:#5E5552;
+  --muted-noir:#B8AFAB;
+  --line-paper:rgba(26,20,20,.14);
+  --line-noir:rgba(255,255,255,.14);
+
+  --f-display:'Instrument Serif','Times New Roman',serif;
+  --f-sans:'Montserrat',system-ui,-apple-system,'Segoe UI',sans-serif;
+  --f-sign:'WindSong',cursive;
+
+  --t-hero:clamp(3.4rem,9.2vw,8.6rem);
+  --t-h2:clamp(2.5rem,5.6vw,4.8rem);
+  --t-h3:clamp(1.7rem,3vw,2.5rem);
+  --t-lead:clamp(1.1rem,1.6vw,1.3rem);
+  --t-body:1.0625rem;
+  --t-small:.875rem;
+  --t-label:.72rem;
+
+  --s1:4px;--s2:8px;--s3:12px;--s4:16px;--s5:24px;--s6:32px;--s7:48px;--s8:64px;--s9:96px;--s10:144px;
+  --r0:0;--r1:2px;--rpill:999px;
+  --ease:cubic-bezier(.2,.7,.1,1);
+  --d-ui:240ms;--d-light:900ms;
+  --wrap:1180px;
+}
